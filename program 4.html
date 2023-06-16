@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>String Position of Left-Most Vowel</h1>
+  <form>
+    <label for="stringInput">Enter a string:</label>
+    <input type="text" id="stringInput">
+    <button type="button" onclick="findLeftMostVowel()">Find</button>
+  </form>
+  <p id="vowelPosition"></p>
+
+  <h1>Reverse Digits of a Number</h1>
+  <form>
+    <label for="numberInput">Enter a number:</label>
+    <input type="number" id="numberInput">
+    <button type="button" onclick="reverseDigits()">Reverse</button>
+  </form>
+  <p id="reversedNumber"></p>
+
+  <script>
+    function findLeftMostVowel() {
+      var inputString = document.getElementById("stringInput").value.toLowerCase();
+      var vowels = ["a", "e", "i", "o", "u"];
+      var position = -1;
+
+      for (var i = 0; i < inputString.length; i++) {
+        if (vowels.includes(inputString[i])) {
+          position = i;
+          break;
+        }
+      }
+
+      if (position !== -1) {
+        document.getElementById("vowelPosition").innerText = "The left-most vowel is at position: " + position;
+      } else {
+        document.getElementById("vowelPosition").innerText = "No vowels found in the string.";
+      }
+    }
+
+    function reverseDigits() {
+      var inputNumber = document.getElementById("numberInput").value;
+      var reversedNumber = parseInt(inputNumber.toString().split("").reverse().join(""));
+
+      document.getElementById("reversedNumber").innerText = "Reversed number: " + reversedNumber;
+    }
+  </script>
+</body>
+</html>
