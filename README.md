@@ -13,3 +13,7 @@ program 3 output
 program 4 output
 ![Screenshot (5)](https://github.com/Deepti1004/web-programs/assets/136418835/5b3929a4-b6b1-47ae-bbc3-ecdc598aa440)
 
+program 5 output
+![Screenshot (7)](https://github.com/Deepti1004/web-programs/assets/136418835/4674c987-b420-4679-9946-0f70376cb78b)
+
+
