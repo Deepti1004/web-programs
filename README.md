@@ -16,4 +16,27 @@ program 4 output
 program 5 output
 ![Screenshot (7)](https://github.com/Deepti1004/web-programs/assets/136418835/4674c987-b420-4679-9946-0f70376cb78b)
 
+program 6 output
+![Screenshot (9)](https://github.com/Deepti1004/web-programs/assets/136418835/191b3546-7388-4188-ac8e-f32ba0c1dc70)
+
+program 7 output
+![Screenshot (11)](https://github.com/Deepti1004/web-programs/assets/136418835/08c45209-8f4a-41be-aa10-ad297af2d31c)
+![Screenshot (13)](https://github.com/Deepti1004/web-programs/assets/136418835/898ec83a-6f0b-466d-b851-7b635266371f)
+
+program 8 output
+![Screenshot (15)](https://github.com/Deepti1004/web-programs/assets/136418835/7757b3e5-5a51-49f5-803f-b0e034efd1e2)
+
+program 9 output
+![Screenshot (17)](https://github.com/Deepti1004/web-programs/assets/136418835/0d44b555-370d-4bae-8938-2d96a5c00575)
+
+program 10 output
+![Screenshot (19)](https://github.com/Deepti1004/web-programs/assets/136418835/7a91f8fa-cf2d-4ad1-b852-c7d2445168fc)
+
+
+
+
+
+
+
+
 
